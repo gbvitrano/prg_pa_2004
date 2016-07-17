@@ -9,7 +9,7 @@
 
 Fonte dati: [Comune di Palermo](http://www.comune.palermo.it/opendata_dld.php?id=320)
 
-[**Webgis - PPE Centro Storico Palermo**](https://qgiscloud.com/gbvitrano/Ppe_Pa) realizzato con Qgis Cloud - PPE - Piano Particolareggiato Esecutivo del centro stroico di Palermo - Anno 1993
+[**Webgis - PPE Centro Storico Palermo**](https://qgiscloud.com/gbvitrano/Ppe_Pa) realizzato con Qgis Cloud - Piano Particolareggiato Esecutivo (PPE) del centro stroico di Palermo - Anno 1993
 
 
 
