@@ -13,9 +13,6 @@ Fonte dati: [Comune di Palermo](http://www.comune.palermo.it/opendata_dld.php?id
 
 [**Webgis - PPE Centro Storico Palermo**](https://qgiscloud.com/gbvitrano/Ppe_Pa) realizzato con Qgis Cloud - Piano Particolareggiato Esecutivo (PPE) del centro stroico di Palermo - Anno 1993
 
-Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa dell'elaborato grafico e dei testi riportati, questi non costituiscono atti ufficiali. Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.
+*Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili. Data la natura esclusivamente informativa dell'elaborato grafico e dei testi riportati, questi non costituiscono atti ufficiali. Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.*
 
-Si declina ogni responsabilità sulla veridicità dei dati.
-
-
-
+**Si declina ogni responsabilità sulla veridicità dei dati.**
